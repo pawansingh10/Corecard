@@ -44,7 +44,15 @@
 
 ### Scrum Roles and Sprint Activities
 ***
+- In order to achieve Software Development using Agile Methodology we use **Scrum**
+- Scrum basically discribe the ***Hierarchy of Employees*** those who are working for Software development Company & How they operate to achieve Agile Develoment
 
+- **Product Owner**
+  - Doesn't exactly own the software But the person own the Project and Resposible for the Successful completion of the project
+  - Job of Product Owner
+   - ***Understands the Requirements of the Customer***
+   - ***Great Vision for the Final Project***
+   - *****
 
 ### JIRA and It's Uses
 ***
