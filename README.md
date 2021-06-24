@@ -34,9 +34,9 @@
   - EPIC is an abstarct view of what we exactly need
   - To achieve an EPIC, break it into Features and to fullfill those features we create Stories (Sub-component of features)
   - |    |  EPIC  |     |
-  - |----|--------|-----|
-  - |    | Featues|     |
-  - |Story|       | Story| 
+    |----|--------|-----|
+    |    | Featues|     |
+    |Story|       | Story| 
 
 
 
