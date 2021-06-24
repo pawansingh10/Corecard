@@ -13,16 +13,16 @@
 - A software have different functionality or features
 
 - |    |      | Software |    |      |
-- |----|------|----------|----|------|
-- |Functionality 1 | Functionality 2| Functionality 3 | Functionality 4|
+  |----|------|----------|----|------|
+  |Functionality 1 | Functionality 2| Functionality 3 | Functionality 4|
 
 - Each of these functionality the way it has been worked
   > **|Planing | Implementation | Testing | Review|**
   
   - | Functionality 1 | Plan | Implement | Test | Review |
-  - |-----------------|------|-----------|------|--------|
-  - | Functionality 2 | Plan | Implement | Test | Review |
-  - | Functionality 3 | Plan | Implement | Test | Review |
+    |-----------------|------|-----------|------|--------|
+    | Functionality 2 | Plan | Implement | Test | Review |
+    | Functionality 3 | Plan | Implement | Test | Review |
 
 - If Review is satisfactory Add to Build else again Plan->Implement->Test->Review for the paricular features
 
