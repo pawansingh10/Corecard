@@ -33,11 +33,13 @@
   - First component to create in Agile is EPIC
   - EPIC is an abstarct view of what we exactly need
   - To achieve an EPIC, break it into Features and to fullfill those features we create Stories (Sub-component of features)
-  - |    |  EPIC  |     |
-    |----|--------|-----|
-    |    | Featues|     |
-    |Story|       | Story| 
-
+  - |   |    | EPIC |   |     |
+    |----|----|----|-----|----|
+    |    |    | Featues|     |     |
+    |    |Story|       | Story|    |
+    |Task| Task|   | Task | Task|
+  
+  -  
 
 
 ### Scrum Roles and Sprint Activities
